@@ -10242,3 +10242,11 @@ form .row:first-child .floating-label-form-group {
 
 /** SKILLS SECTION ***/
 
+.footer-contact {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.footer-contact li span {
+  min-width: 100px;
+}
